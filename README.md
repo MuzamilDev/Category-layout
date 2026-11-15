@@ -1,2 +1,3 @@
-# water-web-app
-I have made this Project during my University for Hostel Students. Furthermore I develop it in Conceptual Language JavaScript. 
+# category layout
+Developed simple category layou, and implement it through Document Object Modulation. 
+You can make your own product store.
